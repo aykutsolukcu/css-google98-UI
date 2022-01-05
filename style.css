@@ -1,0 +1,74 @@
+.container{
+    width: auto;
+    margin: 0 auto;
+
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+}
+
+.grey-box {
+    margin: 0 auto;
+    width: 90%;
+    height: 62px;
+    background-color: #eeeeee;
+    text-align: center;
+
+}
+
+.boxes {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.search{
+    text-align: center;
+}
+
+.links {
+    width: auto;
+    float: left;
+    margin-top: 3px;
+    text-align: center;
+    height: 80px;
+      
+}
+.box1 {
+    width: 37%;
+    background-color: #7ee5da;
+    vertical-align: top;
+}
+
+.mr-10 {
+    margin-top: 10px;
+}
+
+.mr-5 {
+    margin-top: 5px;
+}
+.box2 {
+    width: 19.5%;
+    background-color: #70ccc2;
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: small;
+    text-align: top;
+}
+
+.box3 {
+    width: 43%;
+    background-color: #62B3aa;
+    font-size: small;
+}
+
+.clear {
+    clear: both;
+}
+.copyright {
+font-size: small;
+text-align: center;
+margin-top: 15px;
+
+}
